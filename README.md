@@ -13,8 +13,8 @@
 ![screenshot](screenshot.png)
 
 ## Built With
-[![BuiltWith]
-(http://ForTheBadge.com/images/badges/built-with-love.svg)
+![portfolio](http://ForTheBadge.com/images/badges/built-with-love.svg)
+
 
 - C Programming
 - Linked List  structure & FIFO Buffer
@@ -24,9 +24,6 @@
 
 To get started with this project you need Downolad a Zip code file  editor and a browser, First clone the this repo in a local folder and then open the a.exe or main.c using gcc 
 
-## Authors
-
-👤 **Abdelrahman Kandil**
 
 ## 🔗 Links
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdelrahmanKandil)
@@ -37,6 +34,9 @@ To get started with this project you need Downolad a Zip code file  editor and a
 
 Give a ⭐️ if you like this project!
 
+## Authors
+
+👤 **Abdelrahman Kandil**
 ## Feedback
 
 If you have any feedback, please reach out to me at 3bdulra7man.kandil@gmail.com
