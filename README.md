@@ -2,17 +2,19 @@
 
  > This is A software for Library information management system using data structure linked list & FIFO buffer.
  
- This Library Mangement Contains 
- 
---> View all books
---> Add New Book
---> Delete a Book
---> View Number of avilable books
---> Exist the Library App
-![screenshot]
-( )
+
+ ## Library Features
+
+- View all books
+- Add New Book
+- Delete a Book
+- View Number of avilable books
+- Exist the Library App
+![screenshot](screenshot.png)
 
 ## Built With
+[![BuiltWith]
+(http://ForTheBadge.com/images/badges/built-with-love.svg)
 
 - C Programming
 - Linked List  structure & FIFO Buffer
@@ -26,10 +28,16 @@ To get started with this project you need Downolad a Zip code file  editor and a
 
 👤 **Abdelrahman Kandil**
 
-- Github: [@AbdelrahmanKandil](https://github.com/AbdelrahmanKandil)
-- Linkedin: [abdulrahman-kandil/](https://www.linkedin.com/in/abdulrahman-kandil/)
+## 🔗 Links
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdelrahmanKandil)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-kandil/)
+
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## Feedback
+
+If you have any feedback, please reach out to me at 3bdulra7man.kandil@gmail.com
 
