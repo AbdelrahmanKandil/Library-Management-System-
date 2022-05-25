@@ -40,5 +40,5 @@ Give a ⭐️ if you like this project!
 👤 **Abdelrahman Kandil**
 ## Feedback
 
-If you have any feedback, please reach out to me at [![Gmail Badge](https://img.shields.io/badge/-singhanurag024-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:3bdulra7man.kandil@gmail.com)](mailto:3bdulra7man.kandil@gmail.com)  
+If you have any feedback, please reach out to me at [![Gmail Badge](https://img.shields.io/badge/-3bdulra7man.kandil-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:3bdulra7man.kandil@gmail.com)](mailto:3bdulra7man.kandil@gmail.com)  
 
