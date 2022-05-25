@@ -22,7 +22,8 @@
 
 ## Getting Started
 
-To get started with this project you need Downolad a Zip code file  editor and a browser, First clone the this repo in a local folder and then open the a.exe or main.c using gcc 
+To get started with this project you need Download the [zip folder](https://github.com/AbdelrahmanKandil/Library-Management-System-/archive/refs/heads/main.zip) of this repository
+and run the [a.exe](a.exe) file or  run the [main.c](main.c) file using gcc .
 
 
 ## 🔗 Links
